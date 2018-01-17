@@ -1,0 +1,41 @@
+{
+    "name": "markdown-imsize",
+    "displayName": "Markdown Imsize Support",
+    "version": "0.0.1",
+    "description": "Adds size-specified image syntax support to VS Code's builtin markdown preview",
+    "keywords": [
+        "imsize",
+        "markdown",
+        "image",
+        "resize",
+        "size"
+    ],
+    "publisher": "amoosbr",
+    "repository": {
+        "url": "https://github.com/amoosbr/vscode-markdown-imsize.git"
+    },
+    "bugs": {
+        "url": "https://github.com/amoosbr/vscode-markdown-imsize/issues"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [],
+    "main": "./extension.js",
+    "contributes": {
+        "markdown.markdownItPlugins": true
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install"
+    },
+    "devDependencies": {
+        "vscode": "^1.1.6"
+    },
+    "dependencies": {
+        "markdown-it-imsize": "^2.0.1"
+    }
+}
