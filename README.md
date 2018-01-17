@@ -42,27 +42,14 @@ is interpreted as
 
 ### Examples
 
-Playing cat - Resized from 800x600 to fixed size of 200x150 pixel  
-`![200x150](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =200x150)`  
-![200x150](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =200x150)
-
-Playing cat - Resized from 800x600 to a fixed height of 100 pixel  
-`![x100](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =x100)`  
-![x100](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =x100)
-
-Playing cat - Resized from 800x600 to a fixed width of 100 pixel  
-`![100x](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =100x)`  
-![100x](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =100x)
-
-Playing cat - Resized from 800x600 to a variable width of 100%  
-`![100%x](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =100%x)`  
-![100%x](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG> =100%x)
-
-Playing cat - No image size specified.
-`![Default](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG>)`  
-![Default](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spielendes_K%C3%A4tzchen.JPG/800px-Spielendes_K%C3%A4tzchen.JPG>)
+![](https://raw.githubusercontent.com/amoosbr/vscode-markdown-imsize/master/docs/playing-cat-example1.png)
+![](https://raw.githubusercontent.com/amoosbr/vscode-markdown-imsize/master/docs/playing-cat-example2.png)
 
 ## Release Notes
+
+### 0.0.2
+
+Added example images
 
 ### 0.0.1
 
