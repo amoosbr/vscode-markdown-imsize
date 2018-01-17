@@ -1,7 +1,7 @@
 {
     "name": "markdown-imsize",
     "displayName": "Markdown Imsize Support",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Adds size-specified image syntax support to VS Code's builtin markdown preview",
     "keywords": [
         "imsize",
